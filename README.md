@@ -1,2 +1,2 @@
 # webscraping-ceps
-Webscraping de CEPS da cidade do Natal no site https://buscacep.com.br/
+Webscraping com Python de CEPS da cidade do Natal no site https://buscacep.com.br/
