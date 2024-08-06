@@ -28,5 +28,5 @@ for i in range(len(data["CEP"])):
 data["LOGRADOURO"] = logradouros
 data["BAIRRO"] = bairros
 
-data.to_csv("ceps_add_lograd_bairro",index=False)
+data.to_csv("ceps_add_lograd_bairro.csv",index=False)
 print(data.to_string())
